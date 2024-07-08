@@ -1,3 +1,4 @@
+
 ---
 
 # HnefataflJava: Hnefatafl Board Game in Java
@@ -17,24 +18,15 @@ This repository contains an implementation of the ancient board game Hnefatafl, 
     ```bash
     git clone https://github.com/WasiimSheb/Hnefatafl.git
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd Hnefatafl
-    ```
+2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans).
 
 ## Compilation
 
-Compile the source code using the provided `Makefile` or your preferred Java IDE:
-```bash
-make
-```
+Compile and run the project using the IDE's build and run features.
 
 ## Usage
 
-Run the main class to start the game:
-```bash
-java Main
-```
+Run the `Main` class from your IDE to start the game.
 
 ## Files and Directories
 
